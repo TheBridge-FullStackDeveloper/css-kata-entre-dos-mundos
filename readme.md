@@ -50,13 +50,13 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
    O bien incluir las _"media queries"_ tradicionales
 
    ```css
-  @media screen {
-    /* Contenido del fichero home.css */
-  }
+      @media screen {
+        /* Contenido del fichero home.css */
+      }
 
-  @media print {
-    /* Contenido del fichero print.css */
-  }
+      @media print {
+        /* Contenido del fichero print.css */
+      }
     ```
 
 1. Eliminar contenido poco importante o accesorio
@@ -74,13 +74,13 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
     También puedes usar media queries, especialmente unas tan útiles como las de orientación, que sirven tanto para el viewport como para elementos paginados:
 
     ```css
-    @media print and (orientation: portrait) {
-        /* Reglas para imprimir en formato vertical */
-    }
+      @media print and (orientation: portrait) {
+          /* Reglas para imprimir en formato vertical */
+      }
 
-    @media print and (orientation: landscape) {
-        /* Reglas para imprimir en formato apaisado */
-    }
+      @media print and (orientation: landscape) {
+          /* Reglas para imprimir en formato apaisado */
+      }
     ```
 
 4. Texto, colores e imágenes de fondo
@@ -94,7 +94,7 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
     Como los enlaces no funcionan, puede interesarnos mostrar las rutas de dichos enlaces:
 
     ```css
-    a[href]:after {
-      content: " (" attr(href) ")";
-    }
-```
+      a[href]:after {
+        content: " (" attr(href) ")";
+      }
+    ```
