@@ -42,14 +42,14 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
 
    Definiendo el tipo de media en la importación de la página:
 
-   ```HTML
+   ```html
   <link rel="stylesheet" type="text/css" href="home.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="print.css" media="print" />
    ```
 
    O bien incluir las _"media queries"_ tradicionales
 
-   ```CSS
+   ```css
   @media screen {
     /* Contenido del fichero home.css */
   }
@@ -73,7 +73,7 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
 
     También puedes usar media queries, especialmente unas tan útiles como las de orientación, que sirven tanto para el viewport como para elementos paginados:
 
-    ```CSS3
+    ```css
     @media print and (orientation: portrait) {
         /* Reglas para imprimir en formato vertical */
     }
@@ -93,7 +93,7 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
 
     Como los enlaces no funcionan, puede interesarnos mostrar las rutas de dichos enlaces:
 
-    ```CSS3
+    ```css
     a[href]:after {
       content: " (" attr(href) ")";
     }
