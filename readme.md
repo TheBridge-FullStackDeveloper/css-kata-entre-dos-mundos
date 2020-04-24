@@ -42,10 +42,10 @@ Copia los archivos necesarios para que se pueda ver correctamente la versión we
 
    Definiendo el tipo de media en la importación de la página:
 
-   ```html
-  <link rel="stylesheet" type="text/css" href="home.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="print.css" media="print" />
-   ```
+    ```html
+      <link rel="stylesheet" type="text/css" href="home.css" media="screen" />
+      <link rel="stylesheet" type="text/css" href="print.css" media="print" />
+    ```
 
    O bien incluir las _"media queries"_ tradicionales
 
