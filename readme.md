@@ -26,11 +26,11 @@ Tu tarea, será crear las reglas para que la página siguiente se pueda imprimir
 
 Elige una de estas tres opciones y descarga el código:
 
-- VerdeQueTeQuieroVerde: [Previsualización](https://www.html.am/templates/downloads/bryantsmith/greenblade) - [Descarga](https://www.html.am/goto/?t=//www.html.am/templates/downloads/bryantsmith/greenblade.zip)
+- VerdeQueTeQuieroVerde: [Previsualización](https://www.html.am/templates/downloads/bryantsmith/greenblade) - [Descarga](https://www.html.am/templates/downloads/bryantsmith/greenblade.zip)
 
-- Moyabe: [Previsualización](https://www.html.am/templates/downloads/bryantsmith/mountainouslysimple) - [Descarga](https://www.html.am/goto/?t=//www.html.am/templates/downloads/bryantsmith/mountainouslysimple.zip)
+- Moyabe: [Previsualización](https://www.html.am/templates/downloads/bryantsmith/mountainouslysimple) - [Descarga](https://www.html.am/templates/downloads/bryantsmith/mountainouslysimple.zip)
 
-- La sabana de Ana: [Previsualización](https://www.html.am/templates/downloads/bryantsmith/barrensavannah/) - [Descarga](https://www.html.am/goto/?t=//www.html.am/templates/downloads/bryantsmith/barrensavannah.zip)
+- La sabana de Ana: [Previsualización](https://www.html.am/templates/downloads/bryantsmith/barrensavannah/) - [Descarga](https://www.html.am/templates/downloads/bryantsmith/barrensavannah.zip)
 
 Copia los archivos necesarios para que se pueda ver correctamente la versión web. Ignora el resto.
 
